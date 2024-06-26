@@ -6,7 +6,7 @@ import sys
 import argparse
 import subprocess
 import logging
-
+# add other ports
 protocol_ports = {
     'SMB': ['139', '445'],
     'FTP': ['21'],
